@@ -1,0 +1,19 @@
+(node7:0)
+Number of CUDA devices: 3
+Device: Tesla C2050 (2.0)
+Total global memory: 2749693952
+Free global memory: 2520317952
+Max threads per block: 1024
+Multi Processor count: 14
+Iter 0 total system energy 1.3885250967496218e+10
+Iter 100 total system energy 1.3885168494472076e+10
+Iter 200 total system energy 1.3885130859404541e+10
+Iter 300 total system energy 1.3885080520768023e+10
+Iter 400 total system energy 1.3884999841055801e+10
+Iter 500 total system energy 1.3884873732792917e+10
+Iter 600 total system energy 1.3884695277291458e+10
+Iter 700 total system energy 1.3884474666707163e+10
+Iter 800 total system energy 1.3884239586361832e+10
+Iter 900 total system energy 1.3884013474629883e+10
+Calc time=10.51 seconds
+[mpiexec@node7] Exit codes: [node7] 0

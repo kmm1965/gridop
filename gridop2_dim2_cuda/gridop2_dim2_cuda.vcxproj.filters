@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Cuda Files">
+      <UniqueIdentifier>{af881f93-e5e4-4f13-bbbd-6617896e84f4}</UniqueIdentifier>
+      <Extensions>cu</Extensions>
+    </Filter>
+    <Filter Include="Implementation FIles">
+      <UniqueIdentifier>{86397dfb-966c-4614-8968-c96e81925343}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{eeb5f290-49f3-4f8a-87cb-e8b810509869}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\gridop2_src\gridop2_dim2_cpp.h">
+      <Filter>Implementation FIles</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="gridop2_dim2.cu">
+      <Filter>Cuda Files</Filter>
+    </CudaCompile>
+  </ItemGroup>
+</Project>

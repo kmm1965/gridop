@@ -1,0 +1,14 @@
+Copyright (C) 2009-2017 Intel Corporation. All rights reserved.
+Intel(R) VTune(TM) Amplifier XE 2017 (build 510739)
+Iter 0 total system energy 1.3885250967496906e+10
+Iter 100 total system energy 1.3885168494472223e+10
+Iter 200 total system energy 1.3885130859404531e+10
+Iter 300 total system energy 1.3885080520768003e+10
+Iter 400 total system energy 1.3884999841055798e+10
+Iter 500 total system energy 1.3884873732792921e+10
+Iter 600 total system energy 1.3884695277291458e+10
+Iter 700 total system energy 1.3884474666707182e+10
+Iter 800 total system energy 1.3884239586361835e+10
+Iter 900 total system energy 1.3884013474629864e+10
+Calc time=13.53 seconds
+[mpiexec@node26] Exit codes: [node26] 0

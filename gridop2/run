@@ -1,0 +1,1 @@
+mpirun -maxtime 50 gridop2

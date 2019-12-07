@@ -1,0 +1,13 @@
+(node6:0)
+Iter 0 total system energy 1.3885250967495918e+10
+Iter 100 total system energy 1.3885168494472013e+10
+Iter 200 total system energy 1.3885130859404541e+10
+Iter 300 total system energy 1.3885080520768009e+10
+Iter 400 total system energy 1.3884999841055794e+10
+Iter 500 total system energy 1.3884873732792915e+10
+Iter 600 total system energy 1.3884695277291454e+10
+Iter 700 total system energy 1.3884474666707161e+10
+Iter 800 total system energy 1.3884239586361828e+10
+Iter 900 total system energy 1.3884013474629890e+10
+Calc time=386.95 seconds
+[mpiexec@node6] Exit codes: [node6] 0

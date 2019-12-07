@@ -1,0 +1,1 @@
+mpirun -resource gpu=4 gridop2_cuda
